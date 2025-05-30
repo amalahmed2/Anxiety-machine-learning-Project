@@ -6,7 +6,7 @@ This project uses machine learning models to predict anxiety levels based on psy
 
 ```
 anxiety-ml-project/
-├── Aotebook.ipynb          # Full ML pipeline from preprocessing to model evaluation
+├── Notebook.ipynb          # Full ML pipeline from preprocessing to model evaluation
 ├── app.py                  # Streamlit deployment script
 ├── anxiety.csv             # Dataset used for training/testing
 ├── xgb_model.pkl           # Trained XGBoost model
